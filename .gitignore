@@ -23,6 +23,10 @@ Themes/default/scripts/minified_deferred*.js
 custom_avatar/
 !custom_avatar/index.php
 !custom_avatar/blank.png
+/exports/*.html
+/exports/*.json
+/exports/*.tmp
+/exports/*.xml
 
 # Compiled source #
 ###################
